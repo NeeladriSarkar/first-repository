@@ -1,0 +1,7 @@
+This is file 1 under sample project directory
+
+<<<<<<< HEAD
+These are the changes made in master
+=======
+These are changes made in branch1
+>>>>>>> 61bce21 (Adding some changes from branch1)
